@@ -1,0 +1,12 @@
+.container {
+   
+    @include flex-contenedores;   
+    
+.card {
+
+    padding: 10%;
+    place-content: center;
+    display: flex;
+    margin: 10%;
+   }
+}

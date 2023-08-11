@@ -1,0 +1,23 @@
+
+
+.masprod {
+
+    padding: 10;
+    margin: 10;
+    background-color: $colorprincipal;
+    justify-content: space-evenly;
+    
+   section {
+
+    color: $colorsecundario;
+    padding: 0;
+
+    .imagenes {
+       
+        min-height: 50vh;
+        display: grid;
+        place-content: center;
+        background-color: $colorprincipal;
+    }
+  }
+}

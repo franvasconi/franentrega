@@ -1,0 +1,7 @@
+$colorprincipal: black;
+$colorsecundario: wheat;
+
+@mixin flex-contenedores {
+    display: flex;
+    width: 100%;
+}
