@@ -8,6 +8,7 @@
 .container {
   display: flex;
   width: 100%;
+  margin: 50px;
 }
 .container .card {
   padding: 10%;
@@ -31,6 +32,7 @@
   display: grid;
   place-content: center;
   background-color: black;
+  top: 50px;
 }
 
 .copy {
